@@ -1,0 +1,28 @@
+# ---------------------------------------------------------------
+# Saídas de calibração ADXL (belts, input shaper, vibrações). Os CSVs
+# passam de 19 MB cada e os gráficos são descartáveis assim que a
+# leitura vira número no printer.cfg. Nada disso pertence ao repo.
+# ---------------------------------------------------------------
+*.csv
+*.tar.gz
+adxl_results/
+K-ShakeTune_results/
+ShakeTune_results/
+
+# Saídas de execução do Klipper/Moonraker
+*.log
+*.log.*
+.DS_Store
+
+# Segredos da impressora nunca entram no repo. Os valores reais
+# ficam fora da árvore do git.
+secrets/
+*.secret
+telegrambot.config
+moonraker.secrets
+
+# Arquivos mortos que ainda existem em ~/printer_data/config na
+# impressora. Ignorados para não voltarem no próximo backup; quando
+# forem apagados de lá, estas linhas podem sair.
+stealthburner_leds.cfg
+.moonraker.conf.bkp
