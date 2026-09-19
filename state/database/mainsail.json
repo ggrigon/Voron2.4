@@ -1,0 +1,168 @@
+{
+    "result": {
+        "key": null,
+        "namespace": "mainsail",
+        "value": {
+            "control": {
+                "extruder": {
+                    "feedamount": 50,
+                    "feedrate": 10
+                },
+                "feedrateZ": "99"
+            },
+            "dashboard": {
+                "nonExpandPanels": {
+                    "widescreen": []
+                }
+            },
+            "gcodeViewer": {
+                "klipperCache": {
+                    "axis_maximum": [
+                        350,
+                        355,
+                        310,
+                        0
+                    ],
+                    "axis_minimum": [
+                        0,
+                        0,
+                        -10,
+                        0
+                    ],
+                    "kinematics": "corexy"
+                }
+            },
+            "gcodehistory": {
+                "entries": [
+                    "SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=50",
+                    "SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=110",
+                    "SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=50",
+                    "QGL_LOW",
+                    "clean_nozzle",
+                    "QGL_LOW",
+                    "clean_nozzle",
+                    "clean_nozzle",
+                    "clean_nozzle",
+                    "QGL_LOW",
+                    "clean_nozzle",
+                    "CLEAN_NOZZLE",
+                    "QGL_LOW",
+                    "clean_nozzle",
+                    "clean_nozzle",
+                    "qgl_low",
+                    "    SET_LED_EFFECT EFFECT=sb_logo_cleaning\n",
+                    "STATUS_HOMING",
+                    "STATUS_HEATING",
+                    "STATUS_LEVELING",
+                    "STATUS_MESHING",
+                    "STATUS_HEATING",
+                    "STATUS_PRINTING",
+                    "clean_nozzle",
+                    "clean_nozzle",
+                    "clean_nozzle",
+                    "clean_nozzle",
+                    "clean_nozzle",
+                    "qgl_low",
+                    "qgl_low",
+                    "clean_nozzle",
+                    "qgl_low",
+                    "clean_nozzle",
+                    "qgl_low",
+                    "clean_nozzle",
+                    "GET_TIMELAPSE_SETUP",
+                    "qgl_low",
+                    "clean_nozzle",
+                    "QGL_LOW",
+                    "clean_nozzle",
+                    "QGL_LOW",
+                    "QGL_LOW",
+                    "qgl_low",
+                    "qgl_low",
+                    "QGL_LOW",
+                    "clean_nozzle",
+                    "qgl_low",
+                    "QGL_LOW",
+                    "qgl_low",
+                    "qgl_low"
+                ]
+            },
+            "general": {
+                "printername": "Voron"
+            },
+            "initVersion": "2.10.0",
+            "notifications": {
+                "dismiss": [
+                    {
+                        "category": "klipperWarning",
+                        "date": 1723035921257,
+                        "id": "b3db7ebf2cd98739d18863b6552377012c91981040676010a6fda74706d931f7",
+                        "type": "reboot"
+                    },
+                    {
+                        "category": "moonrakerWarning",
+                        "date": 1738414126413,
+                        "id": "f26927c653152e9d8517e0c015b905859db770beeee8aa78d051eabd836eec43",
+                        "type": "reboot"
+                    },
+                    {
+                        "category": "klipperWarning",
+                        "date": 1739739371596,
+                        "id": "1a2f36c678f7a1dfe697e2b03c6c4d567087c668fca98dfd710e4ec225efba2f",
+                        "type": "reboot"
+                    }
+                ]
+            },
+            "view": {
+                "configfiles": {
+                    "countPerPage": 100,
+                    "sortBy": "modified",
+                    "sortDesc": true
+                },
+                "gcodefiles": {
+                    "countPerPage": 100,
+                    "sortBy": "modified",
+                    "sortDesc": true
+                },
+                "heightmap": {
+                    "flat": true,
+                    "mesh": false,
+                    "probed": true,
+                    "scaleGradient": true,
+                    "scaleZMax": 1,
+                    "wireframe": true
+                },
+                "history": {
+                    "countPerPage": -1,
+                    "hideColums": [
+                        "size",
+                        "modified",
+                        "end_time",
+                        "first_layer_extr_temp",
+                        "first_layer_bed_temp",
+                        "first_layer_height",
+                        "layer_height",
+                        "object_height",
+                        "total_duration",
+                        "filament_total"
+                    ],
+                    "hidePrintStatus": [],
+                    "selectedJobs": [],
+                    "showMaintenanceEntries": true,
+                    "showPrintJobs": true,
+                    "toggleChartCol2": "chart",
+                    "toggleChartCol3": "filament_usage"
+                },
+                "tempchart": {
+                    "datasetSettings": {
+                        "heater_bed": {
+                            "power": false
+                        },
+                        "temperature_sensor BTT_PI": {
+                            "color": "#FFF000"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

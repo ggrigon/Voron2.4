@@ -1,0 +1,305 @@
+{
+    "result": {
+        "key": null,
+        "namespace": "maintenance",
+        "value": {
+            "3ed60955-ca28-434f-86c7-f60a4527aacd": {
+                "name": "MAINTENANCE_INIT"
+            },
+            "4a21c592-64d4-4bea-a470-7c9f9c6d7646": {
+                "end_filament": 5246226.621488195,
+                "end_printtime": 1791402.7011463053,
+                "end_time": 1743727546.18,
+                "last_entry": "502e4db5-dcd4-4082-a5f4-64d885f2eb47",
+                "name": "Limpeza do PEI",
+                "note": "Limpeza do PEI com agua e sab\u00e3o",
+                "perform_note": "03/04",
+                "reminder": {
+                    "date": {
+                        "bool": true,
+                        "value": 10
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 3426310.8327880246,
+                "start_printtime": 1238176.8654407826,
+                "start_time": 1726451126.806
+            },
+            "502e4db5-dcd4-4082-a5f4-64d885f2eb47": {
+                "end_filament": 3426310.8327880246,
+                "end_printtime": 1238176.8654407826,
+                "end_time": 1726451126.806,
+                "last_entry": "71370bef-f5fe-4b99-a7e8-ed0cfa80bf18",
+                "name": "Limpeza do PEI",
+                "note": "Limpeza do PEI com agua e sab\u00e3o",
+                "perform_note": "Limpeza agua quente e sabao",
+                "reminder": {
+                    "date": {
+                        "bool": true,
+                        "value": 10
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 2971545.288517997,
+                "start_printtime": 1082775.7881166425,
+                "start_time": 1725743804.528
+            },
+            "60762815-a3e4-4974-8de2-81e6435928b3": {
+                "end_filament": 739803.85298001,
+                "end_printtime": 268890.79332187894,
+                "end_time": 1722971269.833,
+                "name": "Limpeza do PEI",
+                "note": "Limpeza do PEI com agua e sab\u00e3o",
+                "perform_note": null,
+                "reminder": {
+                    "date": {
+                        "bool": true,
+                        "value": 10
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 96316.62393011198,
+                "start_printtime": 48225.414733661,
+                "start_time": 1722107765.482
+            },
+            "71370bef-f5fe-4b99-a7e8-ed0cfa80bf18": {
+                "end_filament": 2971545.288517997,
+                "end_printtime": 1082775.7881166425,
+                "end_time": 1725743804.527,
+                "last_entry": "8f101f0b-1952-454e-af37-07a9fefb23ab",
+                "name": "Limpeza do PEI",
+                "note": "Limpeza do PEI com agua e sab\u00e3o",
+                "perform_note": "Limpeza PEI\nAgua quente e detergente",
+                "reminder": {
+                    "date": {
+                        "bool": true,
+                        "value": 10
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 2253221.170077968,
+                "start_printtime": 789578.18897533,
+                "start_time": 1724516029.764
+            },
+            "84c4e2e3-e04e-41ed-95f2-5618d86da56d": {
+                "end_filament": 5521153.259038009,
+                "end_printtime": 1885449.5335474606,
+                "end_time": 1757036277.825,
+                "last_entry": "4a21c592-64d4-4bea-a470-7c9f9c6d7646",
+                "name": "Limpeza do PEI",
+                "note": "Limpeza do PEI com agua e sab\u00e3o",
+                "perform_note": "Limpeza com agua quente e detergente",
+                "reminder": {
+                    "date": {
+                        "bool": true,
+                        "value": 10
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 5246226.621488195,
+                "start_printtime": 1791402.7011463053,
+                "start_time": 1743727546.18
+            },
+            "8f101f0b-1952-454e-af37-07a9fefb23ab": {
+                "end_filament": 2253221.170077968,
+                "end_printtime": 789578.18897533,
+                "end_time": 1724516029.764,
+                "last_entry": "ebf4d98f-23f5-448b-8876-7498c603a30e",
+                "name": "Limpeza do PEI",
+                "note": "Limpeza do PEI com agua e sab\u00e3o",
+                "perform_note": "Limpeza",
+                "reminder": {
+                    "date": {
+                        "bool": true,
+                        "value": 10
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 1390261.363319651,
+                "start_printtime": 491041.02223889105,
+                "start_time": 1723643086.031
+            },
+            "9975c342-bac9-4412-8459-c6ac5a4a77f1": {
+                "end_filament": 2734154.7477579736,
+                "end_printtime": 942757.0504792093,
+                "end_time": 1725057638.84,
+                "name": "Troca de bico",
+                "note": "Troca do primeiro CHT.\nClog parcial.",
+                "perform_note": "Novo bico CHT",
+                "reminder": {
+                    "date": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": true,
+                        "value": 100
+                    },
+                    "type": "repeat"
+                },
+                "select_id": "maintenance_9975c342-bac9-4412-8459-c6ac5a4a77f1",
+                "start_filament": 1949730.6354080348,
+                "start_printtime": 669886.855378464,
+                "start_time": 1723923151.055
+            },
+            "b5c5fbde-3e1a-4da5-80fa-399ea7b8dd07": {
+                "end_filament": null,
+                "end_printtime": null,
+                "end_time": null,
+                "last_entry": "cc739647-8729-4495-a89b-922afe81742d",
+                "name": "Troca de bico",
+                "note": "Troca do primeiro CHT.\nClog parcial.",
+                "reminder": {
+                    "date": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": true,
+                        "value": 100
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 3487692.9331980394,
+                "start_printtime": 1266555.6673318567,
+                "start_time": 1726870773.374
+            },
+            "b9c97bfe-252d-4414-9276-f7e1b00da79b": {
+                "end_filament": null,
+                "end_printtime": null,
+                "end_time": null,
+                "last_entry": "84c4e2e3-e04e-41ed-95f2-5618d86da56d",
+                "name": "Limpeza do PEI",
+                "note": "Limpeza do PEI com agua e sab\u00e3o",
+                "reminder": {
+                    "date": {
+                        "bool": true,
+                        "value": 10
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 5521153.259038009,
+                "start_printtime": 1885449.5335474606,
+                "start_time": 1757036277.825
+            },
+            "cc739647-8729-4495-a89b-922afe81742d": {
+                "end_filament": 3487692.9331980394,
+                "end_printtime": 1266555.6673318567,
+                "end_time": 1726870773.373,
+                "last_entry": "9975c342-bac9-4412-8459-c6ac5a4a77f1",
+                "name": "Troca de bico",
+                "note": "Troca do primeiro CHT.\nClog parcial.",
+                "perform_note": "Instalado bico prateado",
+                "reminder": {
+                    "date": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": true,
+                        "value": 100
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 2734154.7477579736,
+                "start_printtime": 942757.0504792093,
+                "start_time": 1725057638.84
+            },
+            "ebf4d98f-23f5-448b-8876-7498c603a30e": {
+                "end_filament": 1390261.363319651,
+                "end_printtime": 491041.02223889105,
+                "end_time": 1723643086.031,
+                "last_entry": "60762815-a3e4-4974-8de2-81e6435928b3",
+                "name": "Limpeza do PEI",
+                "note": "Limpeza do PEI com agua e sab\u00e3o",
+                "perform_note": null,
+                "reminder": {
+                    "date": {
+                        "bool": true,
+                        "value": 10
+                    },
+                    "filament": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "printtime": {
+                        "bool": false,
+                        "value": 0
+                    },
+                    "type": "repeat"
+                },
+                "start_filament": 739803.85298001,
+                "start_printtime": 268890.79332187894,
+                "start_time": 1722971269.833
+            }
+        }
+    }
+}

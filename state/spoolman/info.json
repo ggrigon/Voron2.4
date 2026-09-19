@@ -1,0 +1,12 @@
+{
+    "automatic_backups": true,
+    "backups_dir": "/root/.local/share/spoolman/backups",
+    "build_date": "2026-08-07T15:08:06Z",
+    "data_dir": "/root/.local/share/spoolman",
+    "db_type": "sqlite",
+    "debug_mode": false,
+    "external_db_name": "SpoolmanDB",
+    "git_commit": "f387203",
+    "logs_dir": "/root/.local/share/spoolman",
+    "version": "0.26.1"
+}

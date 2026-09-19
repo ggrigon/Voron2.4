@@ -1,0 +1,320 @@
+[
+    {
+        "archived": true,
+        "extra": {},
+        "filament": {
+            "color_hex": "000000",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 1,
+            "material": "ABS Reciclado",
+            "name": "Preto",
+            "price": 0.0,
+            "registered": "2024-08-04T17:38:25Z",
+            "settings_bed_temp": 110,
+            "settings_extruder_temp": 250,
+            "spool_weight": 134.0,
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2024-08-04T17:38:45.810000Z",
+        "id": 1,
+        "initial_weight": 1000.0,
+        "last_used": "2024-08-12T14:45:57Z",
+        "registered": "2024-08-04T17:38:56Z",
+        "remaining_length": 35221.54134531218,
+        "remaining_weight": 88.10644442256398,
+        "spool_weight": 134.0,
+        "used_length": 364539.69719006075,
+        "used_weight": 911.893555577436
+    },
+    {
+        "archived": true,
+        "extra": {},
+        "filament": {
+            "color_hex": "000000",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 2,
+            "material": "ABS",
+            "name": "Preto",
+            "registered": "2024-08-12T14:46:43Z",
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2024-08-12T14:47:14.885000Z",
+        "id": 2,
+        "initial_weight": 1000.0,
+        "last_used": "2024-08-16T13:46:01Z",
+        "registered": "2024-08-12T14:47:25Z",
+        "remaining_length": 2409.33577428777,
+        "remaining_weight": 6.026936936444827,
+        "used_length": 397351.9027610852,
+        "used_weight": 993.9730630635552
+    },
+    {
+        "archived": true,
+        "extra": {},
+        "filament": {
+            "color_hex": "000000",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 2,
+            "material": "ABS",
+            "name": "Preto",
+            "registered": "2024-08-12T14:46:43Z",
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2024-08-16T13:48:16.355000Z",
+        "id": 3,
+        "initial_weight": 1000.0,
+        "last_used": "2024-09-08T23:32:13Z",
+        "registered": "2024-08-16T13:48:24Z",
+        "remaining_length": 0.0,
+        "remaining_weight": 0.0,
+        "used_length": 401885.67145005136,
+        "used_weight": 1005.3142543845968
+    },
+    {
+        "archived": false,
+        "extra": {},
+        "filament": {
+            "color_hex": "FF0000",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 3,
+            "material": "ABS",
+            "name": "Vermelho",
+            "price": 0.0,
+            "registered": "2024-08-17T18:34:52Z",
+            "settings_bed_temp": 110,
+            "settings_extruder_temp": 250,
+            "spool_weight": 134.0,
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2024-08-17T18:35:03.166000Z",
+        "id": 4,
+        "initial_weight": 1000.0,
+        "last_used": "2026-08-22T05:16:26Z",
+        "registered": "2024-08-17T18:35:09Z",
+        "remaining_length": 129069.2383353659,
+        "remaining_weight": 322.8658156259569,
+        "spool_weight": 134.0,
+        "used_length": 270692.00020000705,
+        "used_weight": 677.1341843740431
+    },
+    {
+        "archived": false,
+        "extra": {},
+        "filament": {
+            "color_hex": "FFFC04",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 4,
+            "material": "ABS",
+            "name": "Amarelo",
+            "price": 0.0,
+            "registered": "2024-08-29T03:00:03Z",
+            "settings_bed_temp": 110,
+            "settings_extruder_temp": 250,
+            "spool_weight": 134.0,
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2024-08-29T03:00:14.908000Z",
+        "id": 5,
+        "initial_weight": 1000.0,
+        "last_used": "2025-03-22T22:27:33Z",
+        "registered": "2024-08-29T03:00:20Z",
+        "remaining_length": 40061.5171054027,
+        "remaining_weight": 100.21361063463348,
+        "spool_weight": 134.0,
+        "used_length": 359699.72142997023,
+        "used_weight": 899.7863893653665
+    },
+    {
+        "archived": false,
+        "extra": {},
+        "filament": {
+            "color_hex": "000000",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 2,
+            "material": "ABS",
+            "name": "Preto",
+            "registered": "2024-08-12T14:46:43Z",
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2024-09-10T01:22:31.467000Z",
+        "id": 6,
+        "initial_weight": 1000.0,
+        "last_used": "2024-09-16T23:44:01Z",
+        "registered": "2024-09-10T01:22:37Z",
+        "remaining_length": 0.0,
+        "remaining_weight": 0.0,
+        "used_length": 411961.34667004907,
+        "used_weight": 1030.5184869332863
+    },
+    {
+        "archived": false,
+        "extra": {},
+        "filament": {
+            "color_hex": "000000",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 2,
+            "material": "ABS",
+            "name": "Preto",
+            "registered": "2024-08-12T14:46:43Z",
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2024-09-20T04:21:37.092000Z",
+        "id": 7,
+        "initial_weight": 1000.0,
+        "last_used": "2024-09-23T00:47:12Z",
+        "registered": "2024-09-20T04:21:42Z",
+        "remaining_length": 19280.6642751006,
+        "remaining_weight": 48.230449619728574,
+        "used_length": 380480.5742602723,
+        "used_weight": 951.7695503802714
+    },
+    {
+        "archived": false,
+        "extra": {},
+        "filament": {
+            "color_hex": "C800FC",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 5,
+            "material": "ABS",
+            "name": "Roxo",
+            "price": 0.0,
+            "registered": "2024-10-04T21:35:55Z",
+            "vendor": {
+                "extra": {},
+                "id": 2,
+                "name": "WT FIlamentos",
+                "registered": "2024-10-04T21:34:55Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2024-10-04T21:36:11.608000Z",
+        "id": 8,
+        "initial_weight": 1000.0,
+        "last_used": "2025-09-10T21:25:28Z",
+        "registered": "2024-10-04T21:36:21Z",
+        "remaining_length": 787.080855441081,
+        "remaining_weight": 1.9688773687132652,
+        "used_length": 398974.15767993184,
+        "used_weight": 998.0311226312867
+    },
+    {
+        "archived": false,
+        "extra": {},
+        "filament": {
+            "color_hex": "000000",
+            "density": 1.04,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 2,
+            "material": "ABS",
+            "name": "Preto",
+            "registered": "2024-08-12T14:46:43Z",
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2025-02-15T05:28:51.650000Z",
+        "id": 9,
+        "initial_weight": 1000.0,
+        "last_used": "2025-03-01T02:55:21Z",
+        "registered": "2025-02-15T05:29:00Z",
+        "remaining_length": 99125.23504541501,
+        "remaining_weight": 247.9610964999647,
+        "used_length": 300636.00348995795,
+        "used_weight": 752.0389035000353
+    },
+    {
+        "archived": false,
+        "extra": {},
+        "filament": {
+            "color_hex": "F4EFEF",
+            "density": 1.03,
+            "diameter": 1.75,
+            "extra": {},
+            "id": 6,
+            "material": "ABS",
+            "name": "Natural",
+            "registered": "2025-03-22T22:28:57Z",
+            "settings_bed_temp": 110,
+            "settings_extruder_temp": 260,
+            "vendor": {
+                "extra": {},
+                "id": 1,
+                "name": "Filamentos 3D Brasil",
+                "registered": "2024-08-04T17:35:14Z"
+            },
+            "weight": 1000.0
+        },
+        "first_used": "2025-03-22T22:29:06.100000Z",
+        "id": 10,
+        "initial_weight": 1000.0,
+        "last_used": "2025-06-07T00:24:18Z",
+        "registered": "2025-03-22T22:29:13Z",
+        "remaining_length": 0.0,
+        "remaining_weight": 0.0,
+        "used_length": 419205.49673996266,
+        "used_weight": 1038.5566048800097
+    }
+]

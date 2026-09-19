@@ -178,8 +178,14 @@ Then a dry homing run before printing.
    `usb-katapult_` (lowercase k, bootloader). Linux is case-sensitive.
 3. **sudo password:** if `sudo service klipper stop` asks for a password and
    fails, the service did **not** stop and will fight for the serial port.
-4. **Katapult timeout:** if too long passes between `-r` and `-f` it falls
-   back to firmware. Just repeat the `-r`.
+4. **Katapult has no timeout** (checked against upstream `bootentry.c`,
+   2026-09-19 — an earlier version of this runbook said it fell back to the
+   firmware). A board sent there with `-r` stays in Katapult until it is
+   flashed or reset. If a flash fails, **do not power-cycle**: the board is
+   still in Katapult and can be flashed again. A write cut off half-way and
+   *then* reset leaves a partial app that Katapult jumps into — that needs a
+   double-tap of the reset button (on the SB2209, at the toolhead).
+   `scripts/flash-mcus.sh` automates this whole runbook with these checks.
 5. **Reflashing the Spider does not drop `can0`** — CAN comes from a
    separate USB adapter.
 6. **The `.config` files exist in two places.** This runbook copies from

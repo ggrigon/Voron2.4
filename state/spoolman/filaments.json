@@ -1,0 +1,119 @@
+[
+    {
+        "color_hex": "000000",
+        "density": 1.04,
+        "diameter": 1.75,
+        "extra": {},
+        "id": 1,
+        "material": "ABS Reciclado",
+        "name": "Preto",
+        "price": 0.0,
+        "registered": "2024-08-04T17:38:25Z",
+        "settings_bed_temp": 110,
+        "settings_extruder_temp": 250,
+        "spool_weight": 134.0,
+        "vendor": {
+            "extra": {},
+            "id": 1,
+            "name": "Filamentos 3D Brasil",
+            "registered": "2024-08-04T17:35:14Z"
+        },
+        "weight": 1000.0
+    },
+    {
+        "color_hex": "000000",
+        "density": 1.04,
+        "diameter": 1.75,
+        "extra": {},
+        "id": 2,
+        "material": "ABS",
+        "name": "Preto",
+        "registered": "2024-08-12T14:46:43Z",
+        "vendor": {
+            "extra": {},
+            "id": 1,
+            "name": "Filamentos 3D Brasil",
+            "registered": "2024-08-04T17:35:14Z"
+        },
+        "weight": 1000.0
+    },
+    {
+        "color_hex": "FF0000",
+        "density": 1.04,
+        "diameter": 1.75,
+        "extra": {},
+        "id": 3,
+        "material": "ABS",
+        "name": "Vermelho",
+        "price": 0.0,
+        "registered": "2024-08-17T18:34:52Z",
+        "settings_bed_temp": 110,
+        "settings_extruder_temp": 250,
+        "spool_weight": 134.0,
+        "vendor": {
+            "extra": {},
+            "id": 1,
+            "name": "Filamentos 3D Brasil",
+            "registered": "2024-08-04T17:35:14Z"
+        },
+        "weight": 1000.0
+    },
+    {
+        "color_hex": "FFFC04",
+        "density": 1.04,
+        "diameter": 1.75,
+        "extra": {},
+        "id": 4,
+        "material": "ABS",
+        "name": "Amarelo",
+        "price": 0.0,
+        "registered": "2024-08-29T03:00:03Z",
+        "settings_bed_temp": 110,
+        "settings_extruder_temp": 250,
+        "spool_weight": 134.0,
+        "vendor": {
+            "extra": {},
+            "id": 1,
+            "name": "Filamentos 3D Brasil",
+            "registered": "2024-08-04T17:35:14Z"
+        },
+        "weight": 1000.0
+    },
+    {
+        "color_hex": "C800FC",
+        "density": 1.04,
+        "diameter": 1.75,
+        "extra": {},
+        "id": 5,
+        "material": "ABS",
+        "name": "Roxo",
+        "price": 0.0,
+        "registered": "2024-10-04T21:35:55Z",
+        "vendor": {
+            "extra": {},
+            "id": 2,
+            "name": "WT FIlamentos",
+            "registered": "2024-10-04T21:34:55Z"
+        },
+        "weight": 1000.0
+    },
+    {
+        "color_hex": "F4EFEF",
+        "density": 1.03,
+        "diameter": 1.75,
+        "extra": {},
+        "id": 6,
+        "material": "ABS",
+        "name": "Natural",
+        "registered": "2025-03-22T22:28:57Z",
+        "settings_bed_temp": 110,
+        "settings_extruder_temp": 260,
+        "vendor": {
+            "extra": {},
+            "id": 1,
+            "name": "Filamentos 3D Brasil",
+            "registered": "2024-08-04T17:35:14Z"
+        },
+        "weight": 1000.0
+    }
+]

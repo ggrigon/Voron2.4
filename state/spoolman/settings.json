@@ -1,0 +1,62 @@
+{
+    "base_url": {
+        "is_set": false,
+        "type": "string",
+        "value": "\"\""
+    },
+    "currency": {
+        "is_set": true,
+        "type": "string",
+        "value": "\"BRL\""
+    },
+    "dashboard_groups": {
+        "is_set": false,
+        "type": "object",
+        "value": "{}"
+    },
+    "dashboard_spoolorders": {
+        "is_set": false,
+        "type": "object",
+        "value": "{}"
+    },
+    "extra_fields_filament": {
+        "is_set": false,
+        "type": "array",
+        "value": "[]"
+    },
+    "extra_fields_spool": {
+        "is_set": false,
+        "type": "array",
+        "value": "[]"
+    },
+    "extra_fields_vendor": {
+        "is_set": false,
+        "type": "array",
+        "value": "[]"
+    },
+    "label_designs": {
+        "is_set": false,
+        "type": "array",
+        "value": "[]"
+    },
+    "locations": {
+        "is_set": false,
+        "type": "array",
+        "value": "[]"
+    },
+    "locations_spoolorders": {
+        "is_set": false,
+        "type": "object",
+        "value": "{}"
+    },
+    "print_presets": {
+        "is_set": false,
+        "type": "array",
+        "value": "[]"
+    },
+    "round_prices": {
+        "is_set": false,
+        "type": "boolean",
+        "value": "false"
+    }
+}

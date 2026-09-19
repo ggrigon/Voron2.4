@@ -1,0 +1,24 @@
+{
+    "result": {
+        "key": null,
+        "namespace": "webcams",
+        "value": {
+            "63547c7c-8c5e-4160-9c48-1d328c41d96a": {
+                "aspectRatio": "4:3",
+                "enabled": true,
+                "extra_data": {},
+                "flipX": false,
+                "flipY": false,
+                "icon": "mdiWebcam",
+                "location": "printer",
+                "name": "Anker",
+                "rotation": 0,
+                "service": "mjpegstreamer-adaptive",
+                "targetFps": 60,
+                "targetFpsIdle": 15,
+                "urlSnapshot": "/webcam/?action=snapshot",
+                "urlStream": "/webcam/?action=stream"
+            }
+        }
+    }
+}

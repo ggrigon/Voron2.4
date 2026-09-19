@@ -1,0 +1,71 @@
+{
+    "result": {
+        "key": null,
+        "namespace": "moonraker",
+        "value": {
+            "announcements": {
+                "klipper": {
+                    "etag": "W/\"6a7a4b2e-1df\""
+                },
+                "mainsail": {
+                    "etag": "W/\"6a7a4b2e-1ec\""
+                },
+                "moonraker": {
+                    "etag": "W/\"6a7a4b2e-1de\""
+                },
+                "moonraker-telegram-bot": {
+                    "etag": "W/\"6a7a4b2e-205\""
+                },
+                "spoolman": {
+                    "etag": "W/\"6a7a4b2e-201\""
+                },
+                "stored_feeds": [
+                    "moonraker-telegram-bot"
+                ]
+            },
+            "file_manager": {
+                "metadata_version": 3
+            },
+            "instance_id": "55c046ee3fb048588cd361edc6d49a35",
+            "klippy_connection": {
+                "service_info": {
+                    "is_default": true,
+                    "manager": "systemd",
+                    "properties": {
+                        "After": [
+                            "system.slice",
+                            "network-online.target",
+                            "systemd-journald.socket",
+                            "-.mount",
+                            "sysinit.target",
+                            "basic.target"
+                        ],
+                        "Description": "Klipper 3D Printer Firmware SV1",
+                        "EnvironmentFiles": "/home/pi/printer_data/systemd/klipper.env",
+                        "ExecStart": "/home/pi/klippy-env/bin/python $KLIPPER_ARGS",
+                        "FragmentPath": "/etc/systemd/system/klipper.service",
+                        "Requires": [
+                            "-.mount",
+                            "system.slice",
+                            "sysinit.target"
+                        ],
+                        "SupplementaryGroups": [],
+                        "User": "pi",
+                        "WorkingDirectory": "/home/pi/klipper"
+                    },
+                    "unit_name": "klipper.service"
+                }
+            },
+            "spoolman": {
+                "spool_id": 4
+            },
+            "usb_id_req_info": {
+                "etag": "W/\"b1e77-61c71de04c280\"",
+                "last_modifed": "Thu, 04 Jul 2024 20:34:02 GMT"
+            },
+            "validate_install": {
+                "install_version": 1
+            }
+        }
+    }
+}
