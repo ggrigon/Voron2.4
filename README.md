@@ -2,6 +2,7 @@
 
 Fysetc Voron 2.4 kit, 350 mm, CoreXY, with the modifications listed below.
 This repository is a configuration backup of the printer at `192.168.1.14`.
+How the backups and the firmware update work: [`scripts/`](scripts/README.md).
 
 - Serial request: https://www.reddit.com/r/voroncorexy/comments/165s76j/voron_serial_request_for_voron_24_by_ggrigon/
 - Build kit: https://github.com/FYSETC/FYSETC-Voron-2
@@ -11,7 +12,7 @@ This repository is a configuration backup of the printer at `192.168.1.14`.
 | | |
 |---|---|
 | Host | Raspberry Pi 3B — MainsailOS 1.3.2 (bullseye), user `pi` |
-| Firmware | [Kalico](https://github.com/KalicoCrew/kalico) v2026.08.00-1 |
+| Firmware | [Kalico](https://github.com/KalicoCrew/kalico) v2026.09.00-5 (host and both MCUs) |
 | Main board | Fysetc Spider v2.3 — STM32F446, USB, Katapult 32 KiB (app `0x8008000`) |
 | X/Y endstops | Sensorless (TMC2209 StallGuard), `driver_SGTHRS` 130 / 80 |
 
@@ -60,9 +61,11 @@ configuration footprint.
 
 ### KNOMI V1
 
-Toolhead display. Not present in any file here: it is a standalone ESP32
-configured on the device itself (WiFi and Moonraker IP), so nothing in
-this repository can restore it.
+Toolhead display, a standalone ESP32 at `192.168.1.214`. Runs the
+[DiverOfDark](https://github.com/DiverOfDark/KNOMI) firmware v2.5.0
+(flashed 2026-09-19): GIFs are swapped from its web UI, no reflash needed.
+The status animations come from [`KNOMI.cfg`](KNOMI.cfg). WiFi and the
+Moonraker IP live on the device, so this repository cannot restore those.
 
 ### Also in the config
 
