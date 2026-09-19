@@ -34,12 +34,6 @@
             },
             "gcodehistory": {
                 "entries": [
-                    "SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=50",
-                    "SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=110",
-                    "SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=50",
-                    "QGL_LOW",
-                    "clean_nozzle",
-                    "QGL_LOW",
                     "clean_nozzle",
                     "clean_nozzle",
                     "clean_nozzle",
@@ -83,7 +77,13 @@
                     "qgl_low",
                     "QGL_LOW",
                     "qgl_low",
-                    "qgl_low"
+                    "qgl_low",
+                    "qgl_low",
+                    "PROBE_ACCURACY SAMPLES=50",
+                    "G28",
+                    "QUAD_GANTRY_LEVEL",
+                    "QUAD_GANTRY_LEVEL",
+                    "QUAD_GANTRY_LEVEL"
                 ]
             },
             "general": {

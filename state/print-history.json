@@ -1,7 +1,463 @@
 {
     "result": {
-        "count": 435,
+        "count": 441,
         "jobs": [
+            {
+                "auxiliary_data": [
+                    {
+                        "description": "Spool IDs used",
+                        "name": "spool_ids",
+                        "provider": "spoolman",
+                        "units": null,
+                        "value": [
+                            4
+                        ]
+                    }
+                ],
+                "end_time": 1789789822.976487,
+                "exists": true,
+                "filament_used": 614.4202099999935,
+                "filename": "whistle4diffrenttones_ABS_8m31s.gcode",
+                "job_id": "0001B9",
+                "metadata": {
+                    "chamber_temp": 40.0,
+                    "estimated_time": 511,
+                    "extruder_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_name": "Voron F3DB - ABS",
+                    "filament_temps": [
+                        250
+                    ],
+                    "filament_total": 569.82,
+                    "filament_type": "ABS",
+                    "filament_weight_total": 1.43,
+                    "filament_weights": [
+                        1.43
+                    ],
+                    "file_processors": [],
+                    "first_layer_bed_temp": 110.0,
+                    "first_layer_extr_temp": 260.0,
+                    "first_layer_height": 0.2,
+                    "gcode_end_byte": 533986,
+                    "gcode_start_byte": 9425,
+                    "layer_count": 66,
+                    "layer_height": 0.12,
+                    "mmu_print": 1,
+                    "modified": 1789788779.6675513,
+                    "nozzle_diameter": 0.4,
+                    "object_height": 8.0,
+                    "printer_model": "Voron 2.4 350",
+                    "printer_variant": "0.4",
+                    "referenced_tools": [],
+                    "size": 555670,
+                    "slicer": "OrcaSlicer",
+                    "slicer_version": "2.4.2",
+                    "thumbnails": [
+                        {
+                            "height": 32,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_8m31s-32x32.png",
+                            "size": 1148,
+                            "width": 32
+                        },
+                        {
+                            "height": 300,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_8m31s-300x300.png",
+                            "size": 6241,
+                            "width": 300
+                        }
+                    ],
+                    "uuid": "aa714b49-a2d8-4085-b3f5-16f41e3db422"
+                },
+                "print_duration": 563.1389870770017,
+                "start_time": 1789788802.5617986,
+                "status": "completed",
+                "total_duration": 1020.477325496001,
+                "user": "_TRUSTED_USER_"
+            },
+            {
+                "auxiliary_data": [
+                    {
+                        "description": "Spool IDs used",
+                        "name": "spool_ids",
+                        "provider": "spoolman",
+                        "units": null,
+                        "value": [
+                            4
+                        ]
+                    }
+                ],
+                "end_time": 1789788451.874309,
+                "exists": false,
+                "filament_used": 0.0,
+                "filename": "whistle4diffrenttones_ABS_9m4s.gcode",
+                "job_id": "0001B8",
+                "metadata": {
+                    "chamber_temp": 40.0,
+                    "estimated_time": 544,
+                    "extruder_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_name": "Voron F3DB - ABS",
+                    "filament_temps": [
+                        250
+                    ],
+                    "filament_total": 611.26,
+                    "filament_type": "ABS",
+                    "filament_weight_total": 1.53,
+                    "filament_weights": [
+                        1.53
+                    ],
+                    "file_processors": [],
+                    "first_layer_bed_temp": 110.0,
+                    "first_layer_extr_temp": 260.0,
+                    "first_layer_height": 0.2,
+                    "gcode_end_byte": 581865,
+                    "gcode_start_byte": 9425,
+                    "layer_count": 66,
+                    "layer_height": 0.12,
+                    "mmu_print": 1,
+                    "modified": 1789788436.4376123,
+                    "nozzle_diameter": 0.4,
+                    "object_height": 8.0,
+                    "printer_model": "Voron 2.4 350",
+                    "printer_variant": "0.4",
+                    "referenced_tools": [],
+                    "size": 603535,
+                    "slicer": "OrcaSlicer",
+                    "slicer_version": "2.4.2",
+                    "thumbnails": [
+                        {
+                            "height": 32,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_9m4s-32x32.png",
+                            "size": 1148,
+                            "width": 32
+                        },
+                        {
+                            "height": 300,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_9m4s-300x300.png",
+                            "size": 6241,
+                            "width": 300
+                        }
+                    ],
+                    "uuid": "a03f70f1-2268-4109-bf15-9f904af95234"
+                },
+                "print_duration": 0.0,
+                "start_time": 1789788437.3418188,
+                "status": "cancelled",
+                "total_duration": 14.364499993999743,
+                "user": "_TRUSTED_USER_"
+            },
+            {
+                "auxiliary_data": [
+                    {
+                        "description": "Spool IDs used",
+                        "name": "spool_ids",
+                        "provider": "spoolman",
+                        "units": null,
+                        "value": [
+                            4
+                        ]
+                    }
+                ],
+                "end_time": 1789788382.3687332,
+                "exists": false,
+                "filament_used": 0.0,
+                "filename": "whistle4diffrenttones_ABS_9m4s.gcode",
+                "job_id": "0001B7",
+                "metadata": {
+                    "chamber_temp": 40.0,
+                    "estimated_time": 544,
+                    "extruder_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_name": "Voron F3DB - ABS",
+                    "filament_temps": [
+                        250
+                    ],
+                    "filament_total": 611.26,
+                    "filament_type": "ABS",
+                    "filament_weight_total": 1.53,
+                    "filament_weights": [
+                        1.53
+                    ],
+                    "file_processors": [],
+                    "first_layer_bed_temp": 110.0,
+                    "first_layer_extr_temp": 260.0,
+                    "first_layer_height": 0.2,
+                    "gcode_end_byte": 581854,
+                    "gcode_start_byte": 9425,
+                    "layer_count": 66,
+                    "layer_height": 0.12,
+                    "mmu_print": 1,
+                    "modified": 1789788290.5576375,
+                    "nozzle_diameter": 0.4,
+                    "object_height": 8.0,
+                    "printer_model": "Voron 2.4 350",
+                    "printer_variant": "0.4",
+                    "referenced_tools": [],
+                    "size": 603525,
+                    "slicer": "OrcaSlicer",
+                    "slicer_version": "2.4.2",
+                    "thumbnails": [
+                        {
+                            "height": 32,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_9m4s-32x32.png",
+                            "size": 1148,
+                            "width": 32
+                        },
+                        {
+                            "height": 300,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_9m4s-300x300.png",
+                            "size": 6241,
+                            "width": 300
+                        }
+                    ],
+                    "uuid": "289ded22-33bb-45c7-83a5-8b014fdde3b7"
+                },
+                "print_duration": 0.0,
+                "start_time": 1789788291.5526667,
+                "status": "klippy_shutdown",
+                "total_duration": 91.01515376799944,
+                "user": "_TRUSTED_USER_"
+            },
+            {
+                "auxiliary_data": [
+                    {
+                        "description": "Spool IDs used",
+                        "name": "spool_ids",
+                        "provider": "spoolman",
+                        "units": null,
+                        "value": [
+                            4
+                        ]
+                    }
+                ],
+                "end_time": 1789787405.6344748,
+                "exists": false,
+                "filament_used": -5.0,
+                "filename": "whistle4diffrenttones_ABS_9m4s.gcode",
+                "job_id": "0001B6",
+                "metadata": {
+                    "chamber_temp": 40.0,
+                    "estimated_time": 544,
+                    "extruder_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_name": "Voron F3DB - ABS",
+                    "filament_temps": [
+                        250
+                    ],
+                    "filament_total": 611.26,
+                    "filament_type": "ABS",
+                    "filament_weight_total": 1.53,
+                    "filament_weights": [
+                        1.53
+                    ],
+                    "file_processors": [],
+                    "first_layer_bed_temp": 110.0,
+                    "first_layer_extr_temp": 260.0,
+                    "first_layer_height": 0.2,
+                    "gcode_end_byte": 582002,
+                    "gcode_start_byte": 9425,
+                    "layer_count": 66,
+                    "layer_height": 0.12,
+                    "mmu_print": 1,
+                    "modified": 1789787053.4578087,
+                    "nozzle_diameter": 0.4,
+                    "object_height": 8.0,
+                    "printer_model": "Voron 2.4 350",
+                    "printer_variant": "0.4",
+                    "referenced_tools": [],
+                    "size": 604071,
+                    "slicer": "OrcaSlicer",
+                    "slicer_version": "2.4.2",
+                    "thumbnails": [
+                        {
+                            "height": 32,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_9m4s-32x32.png",
+                            "size": 1148,
+                            "width": 32
+                        },
+                        {
+                            "height": 300,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_9m4s-300x300.png",
+                            "size": 6241,
+                            "width": 300
+                        }
+                    ],
+                    "uuid": "9eef31f6-7623-4fde-944c-90526def5670"
+                },
+                "print_duration": 0.0,
+                "start_time": 1789787261.202268,
+                "status": "cancelled",
+                "total_duration": 144.2701269250001,
+                "user": "_TRUSTED_USER_"
+            },
+            {
+                "auxiliary_data": [
+                    {
+                        "description": "Spool IDs used",
+                        "name": "spool_ids",
+                        "provider": "spoolman",
+                        "units": null,
+                        "value": [
+                            4
+                        ]
+                    }
+                ],
+                "end_time": 1789787224.520218,
+                "exists": false,
+                "filament_used": -5.0,
+                "filename": "whistle4diffrenttones_ABS_9m4s.gcode",
+                "job_id": "0001B5",
+                "metadata": {
+                    "chamber_temp": 40.0,
+                    "estimated_time": 544,
+                    "extruder_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_name": "Voron F3DB - ABS",
+                    "filament_temps": [
+                        250
+                    ],
+                    "filament_total": 611.26,
+                    "filament_type": "ABS",
+                    "filament_weight_total": 1.53,
+                    "filament_weights": [
+                        1.53
+                    ],
+                    "file_processors": [],
+                    "first_layer_bed_temp": 110.0,
+                    "first_layer_extr_temp": 260.0,
+                    "first_layer_height": 0.2,
+                    "gcode_end_byte": 582002,
+                    "gcode_start_byte": 9425,
+                    "layer_count": 66,
+                    "layer_height": 0.12,
+                    "mmu_print": 1,
+                    "modified": 1789787053.4578087,
+                    "nozzle_diameter": 0.4,
+                    "object_height": 8.0,
+                    "printer_model": "Voron 2.4 350",
+                    "printer_variant": "0.4",
+                    "referenced_tools": [],
+                    "size": 604071,
+                    "slicer": "OrcaSlicer",
+                    "slicer_version": "2.4.2",
+                    "thumbnails": [
+                        {
+                            "height": 32,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_9m4s-32x32.png",
+                            "size": 1148,
+                            "width": 32
+                        },
+                        {
+                            "height": 300,
+                            "relative_path": ".thumbs/whistle4diffrenttones_ABS_9m4s-300x300.png",
+                            "size": 6241,
+                            "width": 300
+                        }
+                    ],
+                    "uuid": "9eef31f6-7623-4fde-944c-90526def5670"
+                },
+                "print_duration": 0.0,
+                "start_time": 1789787054.4245167,
+                "status": "cancelled",
+                "total_duration": 169.9975208730002,
+                "user": "_TRUSTED_USER_"
+            },
+            {
+                "auxiliary_data": [
+                    {
+                        "description": "Spool IDs used",
+                        "name": "spool_ids",
+                        "provider": "spoolman",
+                        "units": null,
+                        "value": [
+                            4
+                        ]
+                    }
+                ],
+                "end_time": 1789785807.9497697,
+                "exists": true,
+                "filament_used": 12607.41416000087,
+                "filename": "BAT+HANGER_ABS_1h15m.gcode",
+                "job_id": "0001B4",
+                "metadata": {
+                    "chamber_temp": 40.0,
+                    "estimated_time": 4499,
+                    "extruder_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_colors": [
+                        "#26A69A"
+                    ],
+                    "filament_name": "Voron F3DB - ABS",
+                    "filament_temps": [
+                        250
+                    ],
+                    "filament_total": 12562.81,
+                    "filament_type": "ABS",
+                    "filament_weight_total": 31.43,
+                    "filament_weights": [
+                        31.43
+                    ],
+                    "file_processors": [],
+                    "first_layer_bed_temp": 110.0,
+                    "first_layer_extr_temp": 260.0,
+                    "first_layer_height": 0.2,
+                    "gcode_end_byte": 6111238,
+                    "gcode_start_byte": 21793,
+                    "layer_count": 350,
+                    "layer_height": 0.2,
+                    "mmu_print": 1,
+                    "modified": 1789781397.757141,
+                    "nozzle_diameter": 0.4,
+                    "object_height": 70.0,
+                    "printer_model": "Voron 2.4 350",
+                    "printer_variant": "0.4",
+                    "referenced_tools": [],
+                    "size": 6133310,
+                    "slicer": "OrcaSlicer",
+                    "slicer_version": "2.4.2",
+                    "thumbnails": [
+                        {
+                            "height": 32,
+                            "relative_path": ".thumbs/BAT+HANGER_ABS_1h15m-32x32.png",
+                            "size": 1148,
+                            "width": 32
+                        },
+                        {
+                            "height": 300,
+                            "relative_path": ".thumbs/BAT+HANGER_ABS_1h15m-300x300.png",
+                            "size": 12184,
+                            "width": 300
+                        }
+                    ],
+                    "uuid": "817f7187-5cd0-42ca-87dd-6f6070f86235"
+                },
+                "print_duration": 4036.055795596,
+                "start_time": 1789781398.9752939,
+                "status": "completed",
+                "total_duration": 4409.031622277,
+                "user": "_TRUSTED_USER_"
+            },
             {
                 "auxiliary_data": [
                     {

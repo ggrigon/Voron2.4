@@ -1,6 +1,7 @@
 .moonraker.conf.bkp
 KAMP/Line_Purge.cfg
 KAMP_Settings.cfg
+KNOMI.cfg
 canbus.cfg
 crowsnest.conf
 klipper-config/.config-esoterical-usb-spider
@@ -11,6 +12,7 @@ mainsail.cfg
 moonraker.conf
 nevermore.cfg
 printer.cfg
+scripts/flash-mcus.sh
 sonar.conf
 stealthburner_led_effects_barf_fan.cfg
 stealthburner_leds.cfg

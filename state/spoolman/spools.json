@@ -121,13 +121,13 @@
         "first_used": "2024-08-17T18:35:03.166000Z",
         "id": 4,
         "initial_weight": 1000.0,
-        "last_used": "2026-08-22T05:16:26Z",
+        "last_used": "2026-09-19T03:50:25Z",
         "registered": "2024-08-17T18:35:09Z",
-        "remaining_length": 129069.2383353659,
-        "remaining_weight": 322.8658156259569,
+        "remaining_length": 115847.05736536493,
+        "remaining_weight": 289.79062049587424,
         "spool_weight": 134.0,
-        "used_length": 270692.00020000705,
-        "used_weight": 677.1341843740431
+        "used_length": 283914.181170008,
+        "used_weight": 710.2093795041258
     },
     {
         "archived": false,

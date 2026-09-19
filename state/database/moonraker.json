@@ -34,10 +34,10 @@
                     "properties": {
                         "After": [
                             "system.slice",
-                            "network-online.target",
+                            "sysinit.target",
                             "systemd-journald.socket",
                             "-.mount",
-                            "sysinit.target",
+                            "network-online.target",
                             "basic.target"
                         ],
                         "Description": "Klipper 3D Printer Firmware SV1",
@@ -45,8 +45,8 @@
                         "ExecStart": "/home/pi/klippy-env/bin/python $KLIPPER_ARGS",
                         "FragmentPath": "/etc/systemd/system/klipper.service",
                         "Requires": [
-                            "-.mount",
                             "system.slice",
+                            "-.mount",
                             "sysinit.target"
                         ],
                         "SupplementaryGroups": [],

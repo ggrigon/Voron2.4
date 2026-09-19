@@ -22,11 +22,11 @@ Gerado por `scripts/backup-printer.sh`. Nao editar a mao.
 | componente | instalado | disponivel |
 |---|---|---|
 | pacotes APT | - | 9 pendentes |
-| moonraker | v0.10.0-31 | v0.10.0-31 |
-| klipper | v2026.08.00-1 | v2026.08.00-1 |
-| mainsail | v2.18.2 | v2.18.2 |
+| moonraker | v0.11.0-1 | v0.11.0-1 |
+| klipper | v2026.09.00-5 | v2026.09.00-5 |
+| mainsail | v2.19.0 | v2.19.0 |
 | mainsail-config | v1.2.1-1 | v1.2.1-1 |
 | crowsnest | v4.1.17-1 | v4.2.0-1 (!) |
 | sonar | v0.2.0-1 | v0.2.0-1 |
-| led_effect | v0.0.18-0 | v0.0.19-0 (!) |
+| led_effect | v0.0.19-0 | v0.0.19-0 |
 | moonraker-telegram-bot | v2.1.0-0 | v2.1.0-0 |

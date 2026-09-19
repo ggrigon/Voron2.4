@@ -10,9 +10,9 @@
         "value": "\"BRL\""
     },
     "dashboard_groups": {
-        "is_set": false,
+        "is_set": true,
         "type": "object",
-        "value": "{}"
+        "value": "{\"location\":[\"\"]}"
     },
     "dashboard_spoolorders": {
         "is_set": false,

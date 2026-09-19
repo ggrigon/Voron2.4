@@ -62,7 +62,7 @@
                 "head_detached": false,
                 "is_valid": true,
                 "last_config_hash": "2b7c90b0840b3b7553d4b1aab401eaaff3e45538c547f8aa84564a67cd27d2fe",
-                "last_refresh_time": 1787359296.9155521,
+                "last_refresh_time": 1789780722.0369005,
                 "modified_files": [],
                 "pinned_commit_valid": true,
                 "pip_version_info": null,
@@ -83,8 +83,8 @@
                 "cbh_count": 0,
                 "commits_behind": [],
                 "corrupt": false,
-                "current_commit": "ae261624f57fb597dcffaa46062b1c58d3e5999d",
-                "current_version": "v2026.08.00-1-gae261624",
+                "current_commit": "84a4105726e22c5c15943e791b5cdb3beff52e77",
+                "current_version": "v2026.09.00-5-g84a41057",
                 "diverged": false,
                 "git_branch": "main",
                 "git_messages": [],
@@ -94,7 +94,7 @@
                 "head_detached": false,
                 "is_valid": true,
                 "last_config_hash": "ae26e9775270fae0a4d265ffa4456977f5bb28b2bb74d957d177c7fc356076fc",
-                "last_refresh_time": 1787375925.28812,
+                "last_refresh_time": 1789793128.3708723,
                 "modified_files": [],
                 "pinned_commit_valid": true,
                 "pip_version_info": [
@@ -105,145 +105,24 @@
                 "recovery_url": "https://github.com/KalicoCrew/kalico.git",
                 "repo_valid": true,
                 "rollback_branch": "main",
-                "rollback_commit": "91fd64805e59a92553c174bfd80eecece43095a1",
-                "rollback_version": "v0.12.0-715-g91fd6480",
+                "rollback_commit": "ae261624f57fb597dcffaa46062b1c58d3e5999d",
+                "rollback_version": "v2026.09.00-0-gae261624",
                 "untracked_files": [
                     "klippy/extras/led_effect.py"
                 ],
-                "upstream_commit": "ae261624f57fb597dcffaa46062b1c58d3e5999d",
+                "upstream_commit": "84a4105726e22c5c15943e791b5cdb3beff52e77",
                 "upstream_url": "https://github.com/KalicoCrew/kalico.git",
-                "upstream_version": "v2026.08.00-1-gae261624"
+                "upstream_version": "v2026.09.00-5-g84a41057"
             },
             "led_effect": {
                 "branches": [
                     "master"
                 ],
-                "cbh_count": 15,
-                "commits_behind": [
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773699820",
-                        "message": "",
-                        "sha": "266f1049c7172c2fba0da4a52314dcfc0c3bb56f",
-                        "subject": "Reverted back to release-drafter",
-                        "tag": "v0.0.19"
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773698723",
-                        "message": "",
-                        "sha": "b581dff7e7c489f935e076e93351e0b4106373a4",
-                        "subject": "Refactor release workflow to use GitHub CLI for creating and uploading release assets",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773698117",
-                        "message": "",
-                        "sha": "45f84568c0fac0cb4287a92e03f72b31518c754b",
-                        "subject": "Enhance Poetry integration in workflow by ensuring it's available on PATH and simplifying installation commands",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773697812",
-                        "message": "",
-                        "sha": "7a5e8742615210ae7735015fa967924e3323e7e3",
-                        "subject": "Refactor release version handling and build steps in workflow",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773697478",
-                        "message": "",
-                        "sha": "1d449de6aaf1ff8334d353eb956af11a20ca91f4",
-                        "subject": "Update release workflow to disable auto-publishing and set release version dynamically",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773697211",
-                        "message": "",
-                        "sha": "a238c3d637f2d444cdb213b975143c6df0f6d22c",
-                        "subject": "Set RELEASE_VERSION environment variable in build job",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773697091",
-                        "message": "",
-                        "sha": "a8a515d88e9ed05ca9198279147093155ce9709c",
-                        "subject": "Add bash shell specification for release tag determination step",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773696858",
-                        "message": "",
-                        "sha": "c5bac9ce3c97c473e2688388c3a0424b4746ae91",
-                        "subject": "Refactor release asset handling to use environment variables for versioning and filename generation",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773696553",
-                        "message": "",
-                        "sha": "cfd2a02732cdb9071c57840e7ccf25de713c9e44",
-                        "subject": "Fix git fetch commands in release workflow to streamline branch merging",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773696073",
-                        "message": "",
-                        "sha": "5e6aff10f4c2e51801eea178fffd29f7ef4439ad",
-                        "subject": "Update GitHub Actions to use actions/checkout@v6 and actions/upload-artifact@v7",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773695720",
-                        "message": "",
-                        "sha": "2d3a23f0a9287759b3089261e042d94d87d86930",
-                        "subject": "Update GitHub Actions to use checkout, cache, and upload artifact v5",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773695405",
-                        "message": "",
-                        "sha": "d3ce1b7bc18851a170043d8c788380f9eb07c61f",
-                        "subject": "Add Release Drafter and Autolabel workflows for automated release management",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773694300",
-                        "message": "",
-                        "sha": "e6f8bfe2090fa97d171b706191a9a0a122ef7a53",
-                        "subject": "Refactor LED drawing logic to improve coordinate handling and size calculations",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773694286",
-                        "message": "",
-                        "sha": "fb514ddfdc127ff3b0c33a1e5100b9f77123fb34",
-                        "subject": "Fix output setting for release URL in GitHub Actions workflow",
-                        "tag": null
-                    },
-                    {
-                        "author": "Julian Schill",
-                        "date": "1773694225",
-                        "message": "",
-                        "sha": "4340d34a1a8d2ad1d96384a6314ec28db6dbd775",
-                        "subject": "Update wxPython dependency to version 4.2.5 and bump Poetry version to 2.3.2",
-                        "tag": null
-                    }
-                ],
+                "cbh_count": 0,
+                "commits_behind": [],
                 "corrupt": false,
-                "current_commit": "24d26c7208c7260a528b4438c7dbf0c279968c01",
-                "current_version": "v0.0.18-0-g24d26c72",
+                "current_commit": "266f1049c7172c2fba0da4a52314dcfc0c3bb56f",
+                "current_version": "v0.0.19-0-g266f1049",
                 "diverged": false,
                 "git_branch": "master",
                 "git_messages": [],
@@ -253,15 +132,15 @@
                 "head_detached": false,
                 "is_valid": true,
                 "last_config_hash": "4cb92abf1abba13c31ffa7e61bdc6dfed2b9234d1c01a6aa91f1979c3604ebb4",
-                "last_refresh_time": 1787359299.9411917,
+                "last_refresh_time": 1789792777.8785443,
                 "modified_files": [],
                 "pinned_commit_valid": true,
                 "pip_version_info": null,
                 "recovery_url": "https://github.com/julianschill/klipper-led_effect.git",
                 "repo_valid": true,
                 "rollback_branch": "master",
-                "rollback_commit": "83e8c46a8e29a8e5de0a0b74273c6f85ee3b8c45",
-                "rollback_version": "v0.0.14-0-g83e8c46a",
+                "rollback_commit": "24d26c7208c7260a528b4438c7dbf0c279968c01",
+                "rollback_version": "v0.0.18-0-g24d26c72",
                 "untracked_files": [],
                 "upstream_commit": "266f1049c7172c2fba0da4a52314dcfc0c3bb56f",
                 "upstream_url": "https://github.com/julianschill/klipper-led_effect.git",
@@ -269,19 +148,19 @@
             },
             "mainsail": {
                 "dl_info": [
-                    "https://github.com/mainsail-crew/mainsail/releases/download/v2.18.2/mainsail.zip",
+                    "https://github.com/mainsail-crew/mainsail/releases/download/v2.19.0/mainsail.zip",
                     "application/zip",
-                    3133520
+                    3137812
                 ],
                 "is_valid": true,
                 "last_config_hash": "fe7d906a72819fb4cb2217f9f30602c8aa80e600f47a24310e5786ccf3191524",
                 "last_error": "",
-                "last_refresh_time": 1787377814.5432155,
+                "last_refresh_time": 1789792978.3237035,
                 "pip_version_info": null,
-                "remote_version": "v2.18.2",
+                "remote_version": "v2.19.0",
                 "rollback_repo": "mainsail-crew/mainsail",
-                "rollback_version": "v2.17.0",
-                "version": "v2.18.2"
+                "rollback_version": "v2.18.2",
+                "version": "v2.19.0"
             },
             "mainsail-config": {
                 "branches": [
@@ -301,7 +180,7 @@
                 "head_detached": false,
                 "is_valid": true,
                 "last_config_hash": "7c378a6cef0f4d08ad5eb4242474d52798a1b700c6b59cfe8876cd48dda0ed38",
-                "last_refresh_time": 1787359294.7147274,
+                "last_refresh_time": 1789780720.2996,
                 "modified_files": [],
                 "pinned_commit_valid": true,
                 "pip_version_info": null,
@@ -322,8 +201,8 @@
                 "cbh_count": 0,
                 "commits_behind": [],
                 "corrupt": false,
-                "current_commit": "d5ee17128bb88434aacdab90c2e9e990e2b64e4a",
-                "current_version": "v0.10.0-31-gd5ee1712",
+                "current_commit": "1cfb0c41e468645951a371621f06d32777b6107c",
+                "current_version": "v0.11.0-1-g1cfb0c41",
                 "diverged": false,
                 "git_branch": "master",
                 "git_messages": [],
@@ -333,7 +212,7 @@
                 "head_detached": false,
                 "is_valid": true,
                 "last_config_hash": "11df0d55d270974a67833ab79de1fa9eccdbc4a4ecee70030f8300249b613015",
-                "last_refresh_time": 1787378136.688177,
+                "last_refresh_time": 1789792841.7300124,
                 "modified_files": [],
                 "pinned_commit_valid": true,
                 "pip_version_info": [
@@ -344,14 +223,14 @@
                 "recovery_url": "https://github.com/Arksine/moonraker.git",
                 "repo_valid": true,
                 "rollback_branch": "master",
-                "rollback_commit": "3e29720cb2ac8c5679c2085849f344f33f089be4",
-                "rollback_version": "v0.10.0-2-g3e29720c",
+                "rollback_commit": "d5ee17128bb88434aacdab90c2e9e990e2b64e4a",
+                "rollback_version": "v0.10.0-31-gd5ee1712",
                 "untracked_files": [
                     "moonraker/components/timelapse.py"
                 ],
-                "upstream_commit": "d5ee17128bb88434aacdab90c2e9e990e2b64e4a",
+                "upstream_commit": "1cfb0c41e468645951a371621f06d32777b6107c",
                 "upstream_url": "https://github.com/Arksine/moonraker.git",
-                "upstream_version": "v0.10.0-31-gd5ee1712"
+                "upstream_version": "v0.11.0-1-g1cfb0c41"
             },
             "moonraker-telegram-bot": {
                 "branches": [
@@ -371,7 +250,7 @@
                 "head_detached": false,
                 "is_valid": true,
                 "last_config_hash": "2034b440003700285fcf2efcd80baf689f7b49023e894c6e66f4279b13b62a2d",
-                "last_refresh_time": 1787359301.8610606,
+                "last_refresh_time": 1789780726.2772698,
                 "modified_files": [],
                 "pinned_commit_valid": true,
                 "pip_version_info": null,
@@ -403,7 +282,7 @@
                 "head_detached": false,
                 "is_valid": true,
                 "last_config_hash": "542ac6a496dba89ba00854a213de75ba6e2b1aeb8d32963babf1a7f17f656757",
-                "last_refresh_time": 1787359298.189746,
+                "last_refresh_time": 1789780723.4539921,
                 "modified_files": [],
                 "pinned_commit_valid": true,
                 "pip_version_info": null,
@@ -419,7 +298,7 @@
             },
             "system": {
                 "last_config_hash": "",
-                "last_refresh_time": 1787359278.6550865,
+                "last_refresh_time": 1789780708.4625182,
                 "packages": [
                     "libpam-systemd",
                     "libsndfile1",
