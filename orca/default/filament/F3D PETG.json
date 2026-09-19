@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_max_volumetric_speed": [
+        "25"
+    ],
+    "filament_settings_id": [
+        "F3D PETG"
+    ],
+    "filament_vendor": [
+        "F3D"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PETG",
+    "is_custom_defined": "0",
+    "name": "F3D PETG",
+    "version": "2.1.1.0"
+}

@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "1.0436"
+    ],
+    "filament_settings_id": [
+        "Voron Generic ABS - Copy"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Voron Generic ABS - Copy",
+    "version": "1.9.0.2"
+}

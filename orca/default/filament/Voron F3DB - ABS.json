@@ -1,0 +1,46 @@
+{
+    "chamber_temperature": [
+        "40"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.9405"
+    ],
+    "filament_max_volumetric_speed": [
+        "35"
+    ],
+    "filament_retraction_length": [
+        "0.4"
+    ],
+    "filament_settings_id": [
+        "Voron F3DB - ABS"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\n; SET_PRESSURE_ADVANCE ADVANCE=0.026"
+    ],
+    "filament_vendor": [
+        "F3DB"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Voron F3DB - ABS",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.026"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "1.9.0.2"
+}

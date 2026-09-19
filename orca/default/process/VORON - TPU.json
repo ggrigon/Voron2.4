@@ -1,0 +1,15 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron",
+    "is_custom_defined": "0",
+    "name": "VORON - TPU",
+    "overhang_reverse": "1",
+    "print_settings_id": "VORON - TPU",
+    "support_interface_top_layers": "0",
+    "support_on_build_plate_only": "1",
+    "support_style": "organic",
+    "support_top_z_distance": "0.12",
+    "support_type": "tree(manual)",
+    "version": "1.9.0.2"
+}

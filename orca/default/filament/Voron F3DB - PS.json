@@ -1,0 +1,37 @@
+{
+    "default_filament_colour": [
+        "#FF8000"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "21"
+    ],
+    "filament_settings_id": [
+        "Voron F3DB - PS"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Voron F3DB - PS",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "version": "1.9.0.2"
+}

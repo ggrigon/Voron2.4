@@ -1,0 +1,21 @@
+{
+    "bottom_shell_layers": "5",
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron",
+    "is_custom_defined": "0",
+    "name": "VORON  PIF - 0.20mm Standard @Voron",
+    "overhang_reverse": "1",
+    "print_settings_id": "VORON  PIF - 0.20mm Standard @Voron",
+    "skirt_loops": "2",
+    "sparse_infill_density": "40%",
+    "sparse_infill_pattern": "cubic",
+    "support_interface_top_layers": "0",
+    "support_on_build_plate_only": "1",
+    "support_style": "organic",
+    "support_top_z_distance": "0.12",
+    "support_type": "tree(manual)",
+    "top_shell_layers": "5",
+    "version": "1.9.0.2",
+    "wall_loops": "4"
+}

@@ -1,0 +1,35 @@
+{
+	"bottom_shell_layers": "5",
+	"brim_type": "no_brim",
+	"from": "User",
+	"gap_infill_speed": "172",
+	"inherits": "0.20mm Standard @Voron",
+	"inner_wall_speed": "345",
+	"internal_solid_infill_speed": "340",
+	"name": "VORON  FASTER 3 - 0.20mm Standard @Voron",
+	"outer_wall_speed": "250",
+	"overhang_reverse": "1",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "VORON  FASTER 3 - 0.20mm Standard @Voron",
+	"seam_position": "aligned_back",
+	"skirt_loops": "2",
+	"small_perimeter_speed": "72%",
+	"sparse_infill_density": "20%",
+	"sparse_infill_pattern": "3dhoneycomb",
+	"sparse_infill_speed": "340",
+	"support_interface_top_layers": "0",
+	"support_on_build_plate_only": "1",
+	"support_speed": "155",
+	"support_style": "organic",
+	"support_top_z_distance": "0.12",
+	"support_type": "tree(manual)",
+	"top_shell_layers": "5",
+	"top_surface_speed": "172",
+	"travel_speed": "450",
+	"version": "1.9.0.2"
+}

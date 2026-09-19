@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "Voron PLA  Print a Lot"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Voron PLA  Print a Lot",
+    "version": "1.9.0.2"
+}

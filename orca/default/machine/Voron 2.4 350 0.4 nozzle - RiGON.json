@@ -1,0 +1,19 @@
+{
+	"from": "User",
+	"inherits": "Voron 2.4 350 0.4 nozzle",
+	"machine_start_gcode": ";M190 S0\n\n;M109 S0\n\nPRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] CHAMBER=[chamber_temperature] FILAMENT_TYPE=[filament_type]",
+	"name": "Voron 2.4 350 0.4 nozzle - RiGON",
+	"print_host": "192.168.1.14",
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "Voron 2.4 350 0.4 nozzle - RiGON",
+	"retraction_length": [
+		"0.4"
+	],
+	"thumbnails": "300x300/PNG",
+	"version": "2.0.2.0"
+}

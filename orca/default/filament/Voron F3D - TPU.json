@@ -1,0 +1,16 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_settings_id": [
+        "Voron F3D - TPU"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "Voron Generic TPU",
+    "is_custom_defined": "0",
+    "name": "Voron F3D - TPU",
+    "version": "2.1.1.0"
+}
